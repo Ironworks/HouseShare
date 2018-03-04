@@ -11,7 +11,7 @@ export default class HelloWorld extends Component {
     return (
       <View style = {styles.container}>
         <Text style = {styles.welcome}>
-          West Ham!!
+          West Ham United!!
           </Text>
       </View>)
   }
